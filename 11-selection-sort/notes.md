@@ -3,7 +3,7 @@
 <ul style="list-style:lower-roman">
   <li> Implement bubble sort.</li>
   <li style="color: #00FF00"> Implement selection sort.</li>
-  <li> Implement inertion sort.</li>
+  <li> Implement insertion sort.</li>
 </ul>
 
 ## The selection sort algorithm

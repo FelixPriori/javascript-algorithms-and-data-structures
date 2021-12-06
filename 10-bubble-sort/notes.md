@@ -3,7 +3,7 @@
 <ul style="list-style:lower-roman">
   <li style="color: #00FF00">Implement bubble sort.</li>
   <li>Implement selection sort.</li>
-  <li>Implement inertion sort.</li>
+  <li>Implement insertion sort.</li>
 </ul>
 
 ## What is sorting?
