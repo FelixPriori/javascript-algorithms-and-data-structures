@@ -1,9 +1,9 @@
 # Bubble sort
 
-<ul style="list-style:none">
-  <li style="color: #00FF00"> i) Implement bubble sort.
-  <li> ii) Implement selection sort.
-  <li> iii) Implement inertion sort.
+<ul style="list-style:lower-roman">
+  <li style="color: #00FF00">Implement bubble sort.</li>
+  <li>Implement selection sort.</li>
+  <li>Implement inertion sort.</li>
 </ul>
 
 ## What is sorting?
